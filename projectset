@@ -1,4 +1,10 @@
 [
-  "ML-python-pytorch-cpu-service",
-  "ML-python-pytorch-cpu-training"
+   {
+      "Repo":"ML-python-pytorch-cpu-service",
+      "Tail":"-service"
+   },
+   {
+      "Repo":"ML-python-pytorch-cpu-training",
+      "Tail":"-training"
+   }
 ]
